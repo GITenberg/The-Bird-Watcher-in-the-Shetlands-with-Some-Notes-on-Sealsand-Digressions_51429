@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '41756'
     url: http://www.gutenberg.org/2009/agents/41756
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Smit
+covers:
+- cover_type: archival
+  image_path: 51429-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Selous, Edmund
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '45735'
     url: http://www.gutenberg.org/2009/agents/45735
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51429#The-Bird-Watcher-in-the-Shetlands-with-Some-Notes-on-Sealsand-Digressions
 gutenberg_issued: '2016-03-13'
 gutenberg_type: Text
 identifiers:
