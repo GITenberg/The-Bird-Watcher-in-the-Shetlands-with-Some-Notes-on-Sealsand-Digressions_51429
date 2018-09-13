@@ -1,0 +1,35 @@
+_repo: The-Bird-Watcher-in-the-Shetlands-with-Some-Notes-on-Sealsand-Digressions_51429
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Smit, Joseph
+    alias: Smit, J. (Joseph)
+    birthdate: 1836
+    deathdate: 1929
+    gutenberg_agent_id: '41756'
+    url: http://www.gutenberg.org/2009/agents/41756
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Smit
+creator:
+  author:
+    agent_name: Selous, Edmund
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '45735'
+    url: http://www.gutenberg.org/2009/agents/45735
+description: ''
+gutenberg_issued: '2016-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51429'
+  lccn: w06000044
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seals (Animals)'
+- !lcsh 'Birds -- Scotland -- Shetland'
+- !lcc 'QL'
+- GITenberg
+title: The Bird Watcher in the Shetlands, with Some Notes on Seals—and Digressions
+url: http://www.gutenberg.org/ebooks/51429
